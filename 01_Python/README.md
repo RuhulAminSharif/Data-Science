@@ -49,4 +49,6 @@ The Journey of Learning Python in a Poor Way
 >   > - if Statement
 >   > - if...else Statement
 >   > - if...elif...else Statement
-
+> - Looping Statements
+>   > - while Loop
+>   > - for Loop
