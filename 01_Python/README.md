@@ -42,3 +42,11 @@ The Journey of Learning Python in a Poor Way
 > - Bitwise Operators
 > - Assignment Operators
 > - Membership Operators
+
+## Control Flow
+
+> - Conditional Statements
+>   > - if Statement
+>   > - if...else Statement
+>   > - if...elif...else Statement
+
