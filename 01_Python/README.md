@@ -52,4 +52,8 @@ The Journey of Learning Python in a Poor Way
 > - Looping Statements
 >   > - while Loop
 >   > - for Loop
-
+>   > - Nested Loops
+> - Loop Control Statements
+>   > - break Statement
+>   > - continue Statement
+>   > - pass Statement
