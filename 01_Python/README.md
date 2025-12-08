@@ -57,3 +57,52 @@ The Journey of Learning Python in a Poor Way
 >   > - break Statement
 >   > - continue Statement
 >   > - pass Statement
+
+## Strings
+
+> - String Creation
+>   > - Single Quotes
+>   > - Double Quotes
+>   > - Triple Quotes
+> - Accessing Substrings
+>   > - Indexing
+>   >   > - Positive Indexing
+>   >   > - Negative Indexing
+>   > - Slicing
+> - Editing and Deleting Strings
+> - Operations on Strings
+>   > - Arithmetic Operations (Concatenation{+}, Repetition{\*})
+>   > - Relational Operations
+>   > - Logical Operations
+>   > - Membership Operations
+> - String Methods
+>
+>   > - Common Methods
+>   >   > - len()
+>   >   > - max()
+>   >   > - min()
+>   >   > - sorted()
+>   > - Changing Case
+>   >   > - capitalize()
+>   >   > - title()
+>   >   > - upper()
+>   >   > - lower()
+>   >   > - swapcase()
+>   > - Searching
+>   >   > - find()
+>   >   > - index()
+>   >   > - count()
+>   > - String Formatting
+>   >   > - Using format() Method
+>   > - Checking String Properties
+>   >   > - isalnum()
+>   >   > - isalpha()
+>   >   > - isdigit()
+>   >   > - isidentifier()
+>   > - Joining and Splitting
+>   >   > - join()
+>   >   > - split()
+>   > - Replacement
+>   >   > - replace()
+>   > - Stripping Whitespace
+>   >   > - strip()
