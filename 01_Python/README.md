@@ -106,3 +106,52 @@ The Journey of Learning Python in a Poor Way
 >   >   > - replace()
 >   > - Stripping Whitespace
 >   >   > - strip()
+
+## Lists
+
+> - Lists Creation
+> - Accessing List Elements
+>   > - Indexing
+>   >   > - Positive Indexing
+>   >   > - Negative Indexing
+>   > - Slicing
+> - Adding Elements to a List
+>   > - append()
+>   > - insert()
+>   > - extend()
+> - Modifying List Elements
+> - Removing Elements from a List
+>   > - remove()
+>   > - pop()
+>   > - clear()
+>   > - del Statement
+> - List Operations
+>   > - Arithmetic Operations (Concatenation{+}, Repetition{\*})
+>   > - Membership Operations
+> - List Methods
+>   > - Common Methods
+>   >   > - len()
+>   >   > - max()
+>   >   > - min()
+>   >   > - sorted()
+>   > - Searching
+>   >   > - index()
+>   >   > - count()
+>   > - Reversing and Sorting
+>   >   > - reverse()
+>   >   > - sort()
+>   > - Copying Lists
+>   >   > - copy()
+> - List Comprehensions
+>   > - Basic Syntax
+>   > - Examples
+>   > - Nested List Comprehensions
+> - List Traversal
+>   > - itemwise
+>   > - indexwise
+> - Zipping Lists
+>   > - zip()
+> - Disadvantages of Lists
+>   > - Slower Operations
+>   > - Higher Memory Consumption
+>   > - Not Ideal for Large Data Sets
