@@ -155,3 +155,36 @@ The Journey of Learning Python in a Poor Way
 >   > - Slower Operations
 >   > - Higher Memory Consumption
 >   > - Not Ideal for Large Data Sets
+
+## Tuples
+
+> - Tuples Creation
+> - Accessing Tuple Elements
+>   > - Indexing
+>   >   > - Positive Indexing
+>   >   > - Negative Indexing
+>   > - Slicing
+> - Modifying and Deleting Tuples
+>   > - Immutability of Tuples
+
+> - Tuple Operations
+>   > - Arithmetic Operations (Concatenation{+}, Repetition{\*})
+>   > - Membership Operations
+> - Tuple Methods
+>   > - Common Methods
+>   >   > - len()
+>   >   > - max()
+>   >   > - min()
+>   >   > - sorted()
+>   > - Searching
+>   >   > - index()
+>   >   > - count()
+> - Differences Between Lists and Tuples
+>   > - Syntax Differences
+>   > - Mutability vs Immutability
+>   > - Performance Differences
+>   >   > - Speed
+>   >   > - Memory Usage
+> - Tuple Packing and Unpacking
+>   > - Packing
+>   > - Unpacking
