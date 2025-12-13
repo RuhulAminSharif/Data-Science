@@ -188,3 +188,50 @@ The Journey of Learning Python in a Poor Way
 > - Tuple Packing and Unpacking
 >   > - Packing
 >   > - Unpacking
+
+## Sets
+
+> - Creating Sets
+>   > - Empty Set
+>   > - 1D and 2D Set
+>   > - Homogeneous and Hetarogeneous Set
+> - Accessing Set Items
+>   > - No access using indexing/slicing
+> - Editing Set Items
+>   > - Editing is not possible
+> - Adding Elements to Sets
+>   > - add()
+>   > - update()
+> - Deleting elements from Set
+>   > - discard()
+>   > - remove()
+>   > - pop()
+>   > - clear()
+> - Set Operation
+>   > - union
+>   > - intersection
+>   > - difference
+>   > - symmetirc difference
+>   > - membership test
+>   > - iteration
+> - Set Functions
+>   > - Common Methods
+>   >   > - len()
+>   >   > - sum()
+>   >   > - max()
+>   >   > - min()
+>   >   > - sorted()
+>   > - Set Specific Functions
+>   >   > - union()
+>   >   > - update()
+>   >   > - intersection()
+>   >   > - intersection_update()
+>   >   > - difference()
+>   >   > - difference_update()
+>   >   > - symmetric_difference()
+>   >   > - symmetric_difference_update()
+>   >   > - isdisjoint()
+>   >   > - issubset()
+>   >   > - issuperset()
+> - Frozenset
+> - Set Comprehension
