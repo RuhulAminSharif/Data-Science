@@ -189,6 +189,39 @@ The Journey of Learning Python in a Poor Way
 >   > - Packing
 >   > - Unpacking
 
+## Dictionary
+
+> - Creating Dictionaries
+>   > - Empty Dictionary
+>   > - 1D and 2D Dictionary
+>   > - Homogeneous and Hetarogeneous Dictionary
+>   > - using dict() Constructor
+> - Accessing Dictionary Items
+>   > - Accessing using Keys
+>   > - get() Method
+> - Adding key-value Pairs to Dictionary
+> - Removing key-value Pairs from Dictionary
+>   > - pop()
+>   > - popitem()
+>   > - del Statement
+>   > - clear()
+> - Editing key-value Pairs in Dictionary
+> - Dictionary Operations
+>   > - Membership Test
+>   > - Iteration
+> - Dictionary Methods
+>   > - Common Methods
+>   >   > - len()
+>   >   > - max()
+>   >   > - min()
+>   >   > - sorted()
+>   > - Dictionary Specific Methods
+>   >   > - keys()
+>   >   > - values()
+>   >   > - items()
+>   >   > - update()
+> - Dictionary Comprehension
+
 ## Sets
 
 > - Creating Sets
