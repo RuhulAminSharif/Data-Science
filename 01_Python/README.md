@@ -235,3 +235,26 @@ The Journey of Learning Python in a Poor Way
 >   >   > - issuperset()
 > - Frozenset
 > - Set Comprehension
+
+## Functions
+
+> - Defining Functions
+> - Parameters vs Arguments
+> - Function Arguments
+>   > - Positional Arguments
+>   > - Keyword Arguments
+>   > - Default Arguments
+>   > - Variable-length Arguments
+>   >   > - \*args
+>   >   > - \*\*kwargs
+> - Return Statement
+> - Scope of Variables
+>   > - Local Scope
+>   > - Global Scope
+> - Recursive Functions
+> - Functions are First-Class Citizens
+> - Lambda Functions
+> - Higher-Order Functions
+>   > - map()
+>   > - filter()
+>   > - reduce()
