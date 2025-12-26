@@ -17,3 +17,13 @@
 1. Modules vs Packages vs Libraries in Python.
 1. Why 0.3 - 0.2 is not equal to 0.1 in Python?
 1. Python Docstrings
+1. What is aliasing?
+1. What is garbage collection?
+1. What is mutability and why is it damgerous in certain scenarios?
+1. What is cloning?
+1. Differentiate bewteen shallow copy and deep copy.
+1. How nested list are stored in memory?
+1. How strings are stored in memory?
+1. Why tuples take less memory than lists?
+1. How set index position is determined?
+1. Why mutable types are not allowed in sets/dicts?
