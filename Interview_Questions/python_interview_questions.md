@@ -1,4 +1,3 @@
-
 ## Interview Questions
 
 1. What is Python? What are the benefits of using Python?
@@ -13,7 +12,7 @@
 1. How strings are stored in memory?
 1. What is Zen of Python?
 1. Identity operator (is) vs == operator?
-1. What does _ variable represent in Python?
+1. What does \_ variable represent in Python?
 1. Modules vs Packages vs Libraries in Python.
 1. Why 0.3 - 0.2 is not equal to 0.1 in Python?
 1. Python Docstrings
@@ -27,3 +26,12 @@
 1. Why tuples take less memory than lists?
 1. How set index position is determined?
 1. Why mutable types are not allowed in sets/dicts?
+1. Why dict key must be immutable?
+1. Enumerate function
+1. destructor
+1. dir/isinstance/issubclass
+1. classmethod vs staticmethod vs instancemethod
+1. The diamond problem in Python
+1. What's the meaning of single and double underscore before a variable or method name?
+1. Magic methods (repr vs str)
+1. How can objects be stored in sets even though they are mutable?
