@@ -13,3 +13,4 @@ This directory contains resources and documentation related to Machine Learning 
 >   >   > - Who is an MLOps Engineer
 >   > - Machine Learning Lifecycle
 >   > - Introduction to Version Control and using GitHub
+> - [ Machine Learning Pipeline](./02_ML_Pipelines.ipynb)
