@@ -352,3 +352,21 @@ The Journey of Learning Python in a Poor Way
 >   > - ZeroDivisionError
 >   > - ImportError
 >   > - AttributeError
+
+## Namespace and Decorators
+
+> - Namespace
+>   > - Scope and LEGB Rule
+>   > - Built-in Namespace
+>   > - Global Namespace
+>   > - Enclosing Namespace
+>   > - Local Namespace
+> - Decorators
+>   > - Function Decorators
+>   > - Class Decorators
+>   > - Built-in Decorators
+>   >   > - @staticmethod
+>   >   > - @classmethod
+>   >   > - @property
+>   > - Decorator Chaining
+>   > - Practical Examples of Decorators
