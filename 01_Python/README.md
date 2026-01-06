@@ -325,3 +325,30 @@ The Journey of Learning Python in a Poor Way
 >   > - Data Types Supported
 >   > - Security Considerations
 >   > - Performance
+
+## Exception Handling
+
+> - Stages of Error
+>   > - During Compile Time
+>   > - During Run Time
+> - Syntax Errors
+> - Logical Errors
+> - Exceptions
+>   > - Why is it important to handle exceptions?
+>   > - How to handle exceptions?
+>   >   > - try Block
+>   >   > - except Block
+>   >   > - else Block
+>   >   > - finally Block
+> - Raising Exceptions
+> - Custom Exceptions
+> - Exception Hierarchy
+> - Common Built-in Exceptions
+>   > - ValueError
+>   > - TypeError
+>   > - IndexError
+>   > - KeyError
+>   > - FileNotFoundError
+>   > - ZeroDivisionError
+>   > - ImportError
+>   > - AttributeError
