@@ -291,3 +291,37 @@ The Journey of Learning Python in a Poor Way
 >   > - map()
 >   > - filter()
 >   > - reduce()
+
+## File Handling
+
+> - Opening and Closing Files
+>   > - open() Function
+>   > - close() Method
+> - File Modes
+>   > - Read Mode ('r')
+>   > - Write Mode ('w')
+>   > - Append Mode ('a')
+>   > - Read and Write Mode ('r+')
+> - Reading from Files
+>   > - read() Method
+>   > - readline() Method
+>   > - readlines() Method
+> - Writing to Files
+>   > - write() Method
+>   > - writelines() Method
+> - Working with File Paths
+> - Using with Statement for File Handling
+
+## Serialization and Deserialization
+
+> - JSON Module
+>   > - json.dump()
+>   > - json.load()
+> - Pickle Module
+>   > - pickle.dump()
+>   > - pickle.load()
+> - Differences Between JSON and Pickle
+>   > - Human-Readability
+>   > - Data Types Supported
+>   > - Security Considerations
+>   > - Performance
