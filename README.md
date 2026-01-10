@@ -14,6 +14,8 @@ The Journey of Learning Data Science in a Poor Way
 >   > - Functions
 >   > - File Handling
 >   > - Serialization and Deserialization
+> - [NumPy](./02_NumPy/)
+>   > - NumPy Fundamentals
 > - [OOP](./OOP/)
 >   > - OOP Concepts
 >   > - Classes and Objects
@@ -23,6 +25,6 @@ The Journey of Learning Data Science in a Poor Way
 >   > - Abstraction
 > - [Deep Learning](./Deep_Learning/) (Running)
 > - [MLOps](./MLOps) (Running)
-> > - Introduction to MLOps
-> > - Machine Learning Pipeline
-> > - Version Control with Git and GitHub
+>   > - Introduction to MLOps
+>   > - Machine Learning Pipeline
+>   > - Version Control with Git and GitHub
