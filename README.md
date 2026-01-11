@@ -1,6 +1,6 @@
 # Data Science
 
-The Journey of Learning Data Science in a Poor Way
+The Journey of Learning Data Science
 
 > - [Python](./01_Python/)
 >   > - Python Fundamentals
