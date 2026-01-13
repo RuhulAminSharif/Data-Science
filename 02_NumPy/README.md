@@ -51,3 +51,24 @@ The journey into NumPy begins here! NumPy is a powerful library for numerical co
 > - Stacking and Splitting Arrays
 >   > - Stacking: np.vstack(), np.hstack()
 >   > - Splitting: np.vsplit(), np.hsplit()
+
+## Numpy Advanced
+
+> - NumPy Arrays vs Python Lists
+>   > - Speed Comparison
+>   > - Memory Efficiency
+>   > - Convenience
+> - Advanced Indexing
+>   > - Normal Indexing
+>   > - Fancy Indexing
+>   > - Boolean Indexing
+> - Broadcasting
+>   > - Broadcasting Rules
+>   > - Examples of Broadcasting
+> - Working with Mathematical Formulas
+>   > - Implementing Formulas with NumPy
+> - Working with missing values
+>   > - Using np.nan
+>   > - Functions to handle missing values: np.isnan(), np.nanmean(), np.nansum()
+> - Plotting with NumPy
+>   > - Using Matplotlib with NumPy
