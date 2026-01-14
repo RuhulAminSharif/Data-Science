@@ -72,3 +72,27 @@ The journey into NumPy begins here! NumPy is a powerful library for numerical co
 >   > - Functions to handle missing values: np.isnan(), np.nanmean(), np.nansum()
 > - Plotting with NumPy
 >   > - Using Matplotlib with NumPy
+
+## NumPy Functions (More)
+
+> - np.sort()
+> - np.append()
+> - np.concatenate()
+> - np.unique()
+> - np.expand_dims()
+> - np.where()
+> - np.argmax(), np.argmin()
+> - np.cumsum(), np.cumprod()
+> - np.percentile()
+> - np.histogram()
+> - np.corrcoef()
+> - np.isin()
+> - np.flip()
+> - np.put(), np.delete()
+> - Set Functions
+>   > - np.intersect1d()
+>   > - np.setdiff1d()
+>   > - np.union1d()
+>   > - np.in1d()
+>   > - np.setxor1d()
+> - np.clip()
