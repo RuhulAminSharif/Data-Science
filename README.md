@@ -14,8 +14,6 @@ The Journey of Learning Data Science
 >   > - Functions
 >   > - File Handling
 >   > - Serialization and Deserialization
-> - [NumPy](./02_NumPy/)
->   > - NumPy Fundamentals
 > - [OOP](./OOP/)
 >   > - OOP Concepts
 >   > - Classes and Objects
@@ -23,6 +21,12 @@ The Journey of Learning Data Science
 >   > - Polymorphism
 >   > - Encapsulation
 >   > - Abstraction
+> - [NumPy](./02_NumPy/)
+>   > - NumPy Fundamentals
+>   > - NumPy Advanced
+>   > - NumPy Tricks
+> - [Pandas](./03_Pandas/)
+>   > - Pandas Series
 > - [Deep Learning](./Deep_Learning/) (Running)
 > - [MLOps](./MLOps) (Running)
 >   > - Introduction to MLOps
