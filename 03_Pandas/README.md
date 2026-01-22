@@ -65,3 +65,55 @@ built on top of the Python programming language.
 >   > - isin()
 >   > - apply()
 > - Copy and View of Series
+
+### Pandas DataFrame
+
+> - Creation of DataFrame
+>   > - DataFrame from List of Lists
+>   > - DataFrame from Dictionary
+>   > - DataFrame from CSV
+> - DataFrame Attributes
+>   > - shape
+>   > - dtypes
+>   > - index
+>   > - columns
+>   > - values
+> - DataFrame Methods
+>   > - head()
+>   > - tail()
+>   > - sample()
+>   > - info()
+>   > - describe()
+>   > - isnull()
+>   > - duplicated()
+>   > - rename()
+>   > - sum(), mean(), median(), std(), var()
+>   > - min(), max()
+> - Selecting Columns from DataFrame
+>   > - Selecting single column
+>   > - Selecting multiple columns
+> - Selecting Rows from DataFrame
+>   > - Selecting by position using iloc[]
+>   > - Selecting by label using loc[]
+> - Selecting both Rows and Columns
+>   > - Using iloc[]
+>   > - Using loc[]
+> - Filtering DataFrame
+> - Adding new Columns
+> - Important DataFrame Methods
+>   > - info()
+>   >   -astype()
+>   >   -value_counts()
+>   > - sort_values()
+>   > - sort_index()
+>   > - rank()
+>   > - set_index()
+>   > - reset_index()
+>   > - rename()
+>   > - unique() and nunique()
+>   > - isnull(), notnull(), and hasnans()
+>   > - dropna()
+>   > - fillna()
+>   > - drop_duplicates()
+>   > - drop()
+>   > - apply()
