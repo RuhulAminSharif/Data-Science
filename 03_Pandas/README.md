@@ -117,3 +117,31 @@ built on top of the Python programming language.
 >   > - drop_duplicates()
 >   > - drop()
 >   > - apply()
+
+### Groupby Objects
+
+> - Grouping DataFrame
+> - Aggregation Functions
+>   > - sum()
+>   > - mean()
+>   > - median()
+>   > - std(), var()
+>   > - min(), max()
+>   > - count()
+> - Groupby Attributes and Methods
+>   > - len()
+>   > - size()
+>   > - first(), last(), nth()
+>   > - get_group() vs filtering
+>   > - groups
+>   > - describe()
+>   > - sample()
+>   > - nunique()
+> - agg() Method
+>   > - passing dictionary to agg()
+>   > - passing list to agg()
+>   > - passing both list and dictionary to agg()
+> - Iterating through Groupby objects
+> - Split-Apply-Combine Paradigm
+> - Groupby with Multiple Columns
+> - Groupby with Different Aggregation for Different Columns
