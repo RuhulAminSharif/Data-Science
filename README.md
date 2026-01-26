@@ -27,6 +27,9 @@ The Journey of Learning Data Science
 >   > - NumPy Tricks
 > - [Pandas](./03_Pandas/)
 >   > - Pandas Series
+>   > - Pandas DataFrame
+>   > - Pandas GroupBy Object
+>   > - Pandas Merging, Joining, and Concatenating
 > - [Deep Learning](./Deep_Learning/) (Running)
 > - [MLOps](./MLOps) (Running)
 >   > - Introduction to MLOps
