@@ -145,3 +145,17 @@ built on top of the Python programming language.
 > - Split-Apply-Combine Paradigm
 > - Groupby with Multiple Columns
 > - Groupby with Different Aggregation for Different Columns
+
+### Pandas Merging, Joining, and Concatenating
+
+> - Concatenating DataFrames
+>   > - Concatenating along rows
+>   > - Concatenating along columns
+>   > - Handling Indexes while Concatenating
+> - Merging DataFrames
+>   > - Inner Join
+>   > - Left Join
+>   > - Right Join
+>   > - Outer Join
+>   > - Self Join
+>   > - Merging on Multiple Columns
