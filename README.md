@@ -30,6 +30,19 @@ The Journey of Learning Data Science
 >   > - Pandas DataFrame
 >   > - Pandas GroupBy Object
 >   > - Pandas Merging, Joining, and Concatenating
+> - [Streamlit](./04_Streamlit/)
+>   > - Introduction to Streamlit
+>   > - Streamlit Widgets
+>   > - Layout & Theming
+>   > - Markdown, Code Display & LaTeX
+>   > - Data Display & Metrics
+>   > - Charts & Data Visualization
+>   > - Caching (Performance Optimization)
+>   > - File Upload & Download
+>   > - Simple Authentication Pattern
+>   > - Multipage Applications
+>   > - Secrets Management
+>   > - Deployment
 > - [Deep Learning](./Deep_Learning/) (Running)
 > - [MLOps](./MLOps) (Running)
 >   > - Introduction to MLOps
